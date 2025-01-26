@@ -1,0 +1,5 @@
+# React
+node_modules/
+build/
+.env
+npm-debug.log*
